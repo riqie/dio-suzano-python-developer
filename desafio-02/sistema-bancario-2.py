@@ -53,9 +53,8 @@ def criarContaBancaria(lista_contas, AGENCIA, lista_usuarios):
 
 
 # ======== FUNÇÕES DE TRANSAÇÕES ==========
-def realizarDeposito(saldo, extrato, lista_contas):
+def realizarDeposito(saldo, extrato):
     print("\nDepósito.")
-    numero_conta = input("Informe o número da conta: ")
 
     valor = registrar_valor()
 
@@ -69,9 +68,8 @@ def realizarDeposito(saldo, extrato, lista_contas):
     return saldo, extrato
 
 
-def realizarSaque(saldo, limite, extrato, n_saques, LIMITE_SAQUES, lista_contas):
+def realizarSaque(saldo, limite, extrato, n_saques, LIMITE_SAQUES):
     print("\nSaque.")
-    numero_conta = input("Informe o número da conta: ")
 
     valor = registrar_valor()
 
