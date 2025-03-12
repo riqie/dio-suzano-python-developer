@@ -14,7 +14,7 @@ setup(
     description='A package to process images',
     long_description = page_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/riqie/dio-suzano-python-developer/tree/main/pacote-processamento-imagem',
+    url='https://github.com/riqie/dio-suzano-python-developer/tree/main/image-processing-package',
     packages = find_packages(),
     install_requires=requirements,
     python_requires='>=3.6',

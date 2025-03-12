@@ -1,7 +1,0 @@
-README.md
-setup.py
-image_processing_henrique0909.egg-info/PKG-INFO
-image_processing_henrique0909.egg-info/SOURCES.txt
-image_processing_henrique0909.egg-info/dependency_links.txt
-image_processing_henrique0909.egg-info/requires.txt
-image_processing_henrique0909.egg-info/top_level.txt
