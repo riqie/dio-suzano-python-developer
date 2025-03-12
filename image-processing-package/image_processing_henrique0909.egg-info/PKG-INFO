@@ -1,0 +1,100 @@
+Metadata-Version: 2.2
+Name: image-processing-henrique0909
+Version: 0.0.1
+Summary: A package to process images
+Home-page: https://github.com/riqie/dio-suzano-python-developer/tree/main/pacote-processamento-imagem
+Author: Henrique C. de Andrade
+Author-email: rique9906@gmail.com
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: certifi==2025.1.31
+Requires-Dist: cffi==1.17.1
+Requires-Dist: charset-normalizer==3.4.1
+Requires-Dist: contourpy==1.3.1
+Requires-Dist: cryptography==44.0.2
+Requires-Dist: cycler==0.12.1
+Requires-Dist: docutils==0.21.2
+Requires-Dist: fonttools==4.56.0
+Requires-Dist: id==1.5.0
+Requires-Dist: idna==3.10
+Requires-Dist: imageio==2.37.0
+Requires-Dist: jaraco.classes==3.4.0
+Requires-Dist: jaraco.context==6.0.1
+Requires-Dist: jaraco.functools==4.1.0
+Requires-Dist: jeepney==0.9.0
+Requires-Dist: keyring==25.6.0
+Requires-Dist: kiwisolver==1.4.8
+Requires-Dist: lazy_loader==0.4
+Requires-Dist: markdown-it-py==3.0.0
+Requires-Dist: matplotlib==3.10.1
+Requires-Dist: mdurl==0.1.2
+Requires-Dist: more-itertools==10.6.0
+Requires-Dist: networkx==3.4.2
+Requires-Dist: nh3==0.2.21
+Requires-Dist: numpy==2.2.3
+Requires-Dist: packaging==24.2
+Requires-Dist: pillow==11.1.0
+Requires-Dist: pycparser==2.22
+Requires-Dist: Pygments==2.19.1
+Requires-Dist: pyparsing==3.2.1
+Requires-Dist: python-dateutil==2.9.0.post0
+Requires-Dist: readme_renderer==44.0
+Requires-Dist: requests==2.32.3
+Requires-Dist: requests-toolbelt==1.0.0
+Requires-Dist: rfc3986==2.0.0
+Requires-Dist: rich==13.9.4
+Requires-Dist: scikit-image==0.25.2
+Requires-Dist: scipy==1.15.2
+Requires-Dist: SecretStorage==3.3.3
+Requires-Dist: setuptools==75.8.2
+Requires-Dist: six==1.17.0
+Requires-Dist: tifffile==2025.2.18
+Requires-Dist: twine==6.1.0
+Requires-Dist: urllib3==2.3.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# image-processing-henrique0909
+
+Description. 
+The package image-processing-henrique0909 is used to:
+	Processing:
+        - Histogram matching
+        - Structural similarity
+        - Resize image
+
+    Utils:
+        - Read image
+        - Save image
+        - Plot image
+        - Plot result
+        - Plot histogram
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image-processing
+
+```bash
+pip install image-processing-henrique0909
+```
+
+## Usage
+
+```python
+from package_name.module1_name import file1_name
+file1_name.my_function()
+```
+
+## Author
+Henrique C. de Andrade
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
